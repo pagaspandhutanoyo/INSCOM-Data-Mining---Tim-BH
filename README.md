@@ -6,4 +6,5 @@ Anggota Kelompok:
 2) Samsun Maarif (A11.2019.12319)
 3) Pagas Pandhu Tanoyo (A11.2019.12340)
 
-#UNIVERSITAS DIAN NUSWANTORO
+# UNIVERSITAS DIAN NUSWANTORO
+
